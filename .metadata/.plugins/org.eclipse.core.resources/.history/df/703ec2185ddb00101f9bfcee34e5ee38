@@ -1,0 +1,5 @@
+package com.uisrael.proyectoapi.infraestructura.persistencia.jpa;
+
+public class ClienteJpa {
+
+}

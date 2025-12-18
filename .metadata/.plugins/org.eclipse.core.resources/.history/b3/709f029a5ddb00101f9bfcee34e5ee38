@@ -1,0 +1,5 @@
+package com.uisrael.proyectoapi.infraestructura.repositorios;
+
+public interface IClienteRepositorio {
+
+}
